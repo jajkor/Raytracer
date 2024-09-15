@@ -81,6 +81,7 @@ In between, I want a blend.
 
 
 ### Focal Length
+The distance between the viewport and the camera center point.
 
     Smaller focal length = bigger FOV
     Bigger focal length = smaller FOV
